@@ -1,1 +1,1 @@
-# firebase-ultimate-beginner-s-guide
+# firebase-ultimate-beginner-s-guide-fireship
